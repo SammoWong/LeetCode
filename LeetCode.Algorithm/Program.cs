@@ -6,6 +6,7 @@ namespace LeetCode.Algorithm
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
